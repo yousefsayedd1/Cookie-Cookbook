@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\bin\Debug\net8.0\Cookie Cookbook.exe
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\bin\Debug\net8.0\Cookie Cookbook.deps.json
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\bin\Debug\net8.0\Cookie Cookbook.runtimeconfig.json
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\bin\Debug\net8.0\Cookie Cookbook.dll
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\bin\Debug\net8.0\Cookie Cookbook.pdb
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\Cookie Cookbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\Cookie Cookbook.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\Cookie Cookbook.AssemblyInfo.cs
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\Cookie Cookbook.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\Cookie Cookbook.dll
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\refint\Cookie Cookbook.dll
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\Cookie Cookbook.pdb
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\Cookie Cookbook.genruntimeconfig.cache
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\ref\Cookie Cookbook.dll
