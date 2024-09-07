@@ -1,0 +1,17 @@
+Identify Use Cases:
+	- Store Recipe: A user can store Recipe ingredients
+ 
+
+User Stories:
+- As a user, I want to store some recipe ingredients, so that I can display them again when I open the program again
+
+classes:
+	- Recipe (name, ingredients)
+	- ingredient (id, name, preparation instructions)
+Methods:
+	- store
+	- display
+	- 
+classes Relationships 
+	- Recipe has a ingredient (Aggregation)
+	
