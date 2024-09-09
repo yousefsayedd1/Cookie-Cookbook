@@ -12,3 +12,4 @@ C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\
 C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\Cookie Cookbook.pdb
 C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\Cookie Cookbook.genruntimeconfig.cache
 C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\ref\Cookie Cookbook.dll
+C:\Users\asus\Desktop\Programming\Backend\ConsoleApp1\Cookie Cookbook\obj\Debug\net8.0\Cookie Cookbook.sourcelink.json

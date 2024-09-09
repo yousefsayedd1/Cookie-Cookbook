@@ -1,19 +1,19 @@
 ﻿using System.Text.Json;
 
-public class RecipeRepository
+public class JsonRecipeRepository : IRecipeRepository
 
 {
     // Property that holds the file path where recipes will be saved.
     public string FilePath { get; private set; }
     // Constructor that initializes the repository with a file path.
-    public RecipeRepository(string path)
+    public JsonRecipeRepository(string path)
     {
         FilePath = path;
     }
     // Method that saves a recipe object to a JSON file.
     // The method converts the Recipe's ingredients into a list of integers (IDs),
     // stores it in a collection of recipes, and writes the result to a JSON file.
-    public void SaveRecipeToJson(Recipe Recipe1)
+    public void Save(Recipe Recipe1)
     {
         // List to store the ingredient IDs of the recipe.
         List<int> ingredients = new List<int>();
@@ -32,7 +32,7 @@ public class RecipeRepository
         File.WriteAllText(FilePath, JsonString);
     }
     // Restore all recipes from JSON, matching IDs to ingredient objects
-    public List<Recipe> ResorteALLRecipesFromJson(List<Ingredient> ingredients)
+    public List<Recipe> Read(List<Ingredient> ingredients)
     {
         List<List<int>> RecipesIngredients = RestoreJsonFileContent();
         List<Recipe> Recipes = new List<Recipe>();
