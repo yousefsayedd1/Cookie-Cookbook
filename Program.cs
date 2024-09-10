@@ -1,4 +1,4 @@
-﻿CookieCookbook App = new CookieCookbook(new ConsoleUserInterface(),new JsonRecipeRepository("testfile.json"));
+﻿CookieCookbook App = new CookieCookbook(new ConsoleUserInterface(),new JsonRecipeRepository("Recipes.json"));
 App.Run();
 public class CookieCookbook
 {

@@ -4,7 +4,7 @@
     {
         foreach (Ingredient ingredient in ingredients)
         {
-            Console.WriteLine($"{ingredient.ID}. {ingredient.Name}");
+            Console.WriteLine(ingredient.ToString());
         }
     }
     // Method to prompt user to select ingredients

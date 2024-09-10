@@ -50,8 +50,10 @@ public class JsonRecipeRepository : IRecipeRepository
     // Read and deserialize the JSON file content
     public List<List<int>> RestoreJsonFileContent()
     {
+        string JsonFileContent = "";
+        if (File.Exists(FilePath)) JsonFileContent = File.ReadAllText(FilePath);
+
         List<List<int>> RecipesIngredients = new List<List<int>>();
-        string JsonFileContent = File.ReadAllText(FilePath);
         if (JsonFileContent != "") RecipesIngredients = JsonSerializer.Deserialize<List<List<int>>>(JsonFileContent);
         return RecipesIngredients;
     }
